@@ -2,6 +2,10 @@
 
 Bem-vindo ao Quiz Gastronômico Brasileiro! Este é um jogo educativo que desafia seus conhecimentos sobre a rica culinária brasileira. Teste seu domínio sobre pratos típicos, ingredientes e tradições culinárias do Brasil enquanto se diverte!
 
+## Tela Inicial
+
+![Quiz Gastronômico](img.jpeg)
+
 ## Como Jogar
 
 1. **Clone o Repositório:** Clone este repositório em sua máquina local.
